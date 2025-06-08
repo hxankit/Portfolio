@@ -49,8 +49,8 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a JS Animation library",
-    description: "The Inside Scoop",
+    title: "Currently Working on A secret Project",
+    description: "The Top Secret",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
     titleClassName: "justify-center md:justify-start lg:justify-center",
@@ -68,74 +68,75 @@ export const gridItems = [
     spareImg: "",
   },
 ];
-
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    title: "E-Commerce Platform",
+    des: "A fully functional eCommerce website with product listings, cart, payment integration, and admin dashboard.",
     img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    iconLists:  ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+    link: "/projects/ecommerce",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
+    title: "Social Media App with Video Support",
+    des: "A dynamic social media platform enabling video posts, likes, comments, real-time messaging, and user profiles.",
     img: "/p2.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    iconLists:  ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+    link: "/projects/socialmedia",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
+    title: "Terminator - Voice Assistant",
+    des: "An AI-powered voice assistant using speech recognition to perform tasks, answer queries, and interact naturally.",
     img: "/p3.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
+    link: "/projects/terminator",
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+    title: "More Projects Coming Soon",
+    des: "New innovative full-stack projects are on the way, featuring AI tools, real-time systems, and scalable apps.",
     img: "/p4.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    iconLists:  ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "#",
   },
 ];
+
 
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with Ankit was a fantastic experience. His deep backend expertise and full-stack skills helped deliver a robust and scalable solution on time. He is professional, detail-oriented, and communicates clearly throughout the project.",
+    name: "Rohit Sharma",
+    title: "Product Manager at TechSolutions",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Ankit brought our ideas to life with his exceptional full-stack development capabilities. His backend architecture knowledge ensured the app was both fast and reliable. Highly recommend him for any challenging development projects.",
+    name: "Sneha Gupta",
+    title: "Founder, InnovateX Labs",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Ankit’s ability to bridge backend and frontend seamlessly impressed the entire team. His problem-solving skills and dedication to clean, maintainable code were invaluable to our product’s success.",
+    name: "Amit Verma",
+    title: "CTO at CloudWare",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "We appreciated Ankit’s proactive approach and technical expertise. He consistently delivered efficient backend solutions while integrating smoothly with frontend requirements, making the development cycle faster and more efficient.",
+    name: "Priya Singh",
+    title: "Project Lead, NexGen Apps",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Ankit is a talented full-stack developer with strong backend knowledge. His professionalism and ability to understand complex requirements helped us build a scalable and user-friendly platform.",
+    name: "Manish Patel",
+    title: "CEO at BlueWave Tech",
   },
 ];
+
 
 export const companies = [
   {
@@ -173,45 +174,49 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "MERN Stack Developer (Remote)",
+    desc: "Worked remotely for 1.5 years building scalable web apps using MongoDB, Express.js, React.js, and Node.js.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
-    className: "md:col-span-2", // change to md:col-span-2
+    title: "Full Stack Developer - JSM Tech",
+    desc: "Developed cross-platform mobile and web apps using React Native and integrated APIs with Node.js backend.",
+    className: "md:col-span-2",
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
-    className: "md:col-span-2", // change to md:col-span-2
+    title: "Freelance Developer",
+    desc: "Delivered full-stack projects for clients using MEAN, MERN, and .NET Core based on specific business needs.",
+    className: "md:col-span-2",
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "Junior Full Stack Developer",
+    desc: "Contributed to both frontend and backend development using modern JS frameworks and .NET Core technologies.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
 ];
 
+
 export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link: "https://github.com/hxankit",
   },
   {
     id: 2,
     img: "/twit.svg",
+    link: "#",
   },
   {
     id: 3,
     img: "/link.svg",
+    link: "www.linkedin.com/in/ankit-verma-56bb72346",
   },
 ];
