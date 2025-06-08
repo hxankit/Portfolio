@@ -1,4 +1,3 @@
-"use client";
 
 import { navItems } from "@/data";
 
