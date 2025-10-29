@@ -71,27 +71,27 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "E-Commerce Platform",
-    des: "A fully functional eCommerce website with product listings, cart, payment integration, and admin dashboard.",
-    img: "/p1.svg",
+    title: "Machinary Store",
+    des: "A fully functional Machinary Store website with product listings, enquiry product, and admin dashboard.",
+    img: "/p1.png",
     iconLists:  ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/projects/ecommerce",
+    link: "https://maheshwarimachinaries.co.in/",
   },
   {
     id: 2,
-    title: "Social Media App with Video Support",
-    des: "A dynamic social media platform enabling video posts, likes, comments, real-time messaging, and user profiles.",
-    img: "/p2.svg",
+    title: "Tech Org's Website",
+    des: "A dynamic Website for a Tech organization where customer can enquire about the sevices of the organization.",
+    img: "/p2.png",
     iconLists:  ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/projects/socialmedia",
+    link: "https://scstechnologies.in/",
   },
   {
     id: 3,
-    title: "Terminator - Voice Assistant",
-    des: "An AI-powered voice assistant using speech recognition to perform tasks, answer queries, and interact naturally.",
-    img: "/p3.svg",
+    title: "File Management Cloud",
+    des: "A cloud-based file management system that allows users to store, share, and manage their files securely online.",
+    img: "/p3.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/projects/terminator",
+    link: "https://upexample.onrender.com/",
   },
   {
     id: 4,
@@ -99,7 +99,7 @@ export const projects = [
     des: "New innovative full-stack projects are on the way, featuring AI tools, real-time systems, and scalable apps.",
     img: "/p4.svg",
     iconLists:  ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "#",
+    link: "Comming Soon",
   },
 ];
 
@@ -181,7 +181,7 @@ export const workExperience = [
   },
   {
     id: 2,
-    title: "Full Stack Developer - JSM Tech",
+    title: "Full Stack Developer - SCS Technologies",
     desc: "Developed cross-platform mobile and web apps using React Native and integrated APIs with Node.js backend.",
     className: "md:col-span-2",
     thumbnail: "/exp2.svg",
@@ -211,11 +211,6 @@ export const socialMedia = [
   },
   {
     id: 2,
-    img: "/twit.svg",
-    link: "#",
-  },
-  {
-    id: 3,
     img: "/link.svg",
     link: "www.linkedin.com/in/ankit-verma-56bb72346",
   },
