@@ -175,7 +175,7 @@ export const workExperience = [
   {
     id: 1,
     title: "MERN Stack Developer (Remote)",
-    desc: "Worked remotely for 1.5 years building scalable web apps using MongoDB, Express.js, React.js, and Node.js.",
+    desc: "Worked remotely, Building scalable web apps using MongoDB, Express.js, React.js, and Node.js.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
