@@ -32,11 +32,18 @@ const Footer = () => {
             position="right"
           />
         </a>
+        <a href="tel:+919368644903">
+          <MagicButton
+            title="Let's talk via Phone"
+            icon={<FaLocationArrow />}
+            position="right"
+          />
+        </a>
         <a
-    href="https://wa.me/+917599828342" // Replace with your number
-    target="_blank"
-    rel="noopener noreferrer"
-  >
+          href="https://wa.me/+917599828342" // Replace with your number
+          target="_blank"
+          rel="noopener noreferrer"
+      >
     <MagicButton
       title="Chat on WhatsApp"
       icon={<FaLocationArrow />}

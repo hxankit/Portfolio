@@ -61,7 +61,7 @@ const Hero = () => {
           Hi! I&apos;m Ankit, a Full Stack Developer with strong backend expertise, based in India.
           </p>
 
-          <a href="#about">
+          <a href="#recent-projects">
             <MagicButton
               title="Show my work"
               icon={<FaLocationArrow />}

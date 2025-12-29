@@ -82,4 +82,13 @@
   .heading {
     @apply font-bold text-4xl md:text-5xl text-center;
   }
+
+  /* Hide native scrollbar (cross-browser) */
+  .hide-scrollbar {
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+  }
+  .hide-scrollbar::-webkit-scrollbar {
+    display: none; /* Chrome, Safari, Opera */
+  }
 }
