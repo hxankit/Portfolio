@@ -194,12 +194,12 @@ export const workExperience = [
     thumbnail: "/exp3.svg",
   },
   {
-    id: 4,
-    title: "Junior Full Stack Developer",
-    desc: "Contributed to both frontend and backend development using modern JS frameworks and .NET Core technologies.",
-    className: "md:col-span-2",
-    thumbnail: "/exp4.svg",
-  },
+  id: 4,
+  title: "Open to Collaborate",
+  desc: "Available for collaboration on frontend, backend, and full-stack projects using modern JavaScript and .NET technologies.",
+  className: "md:col-span-2",
+  thumbnail: "/exp4.svg",
+}
 ];
 
 
