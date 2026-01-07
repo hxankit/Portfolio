@@ -92,7 +92,7 @@ export const projects = [
     des: "A cloud-based file management system that allows users to store, share, and manage their files securely online.",
     img: "/p3.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "https://upexample.onrender.com/",
+    link: "https://file-management-cloud-1.onrender.com/",
   },
   {
     id: 4,
@@ -175,14 +175,15 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "MERN Stack Developer (Remote)",
-    desc: "Worked remotely, Building scalable web apps using MongoDB, Express.js, React.js, and Node.js.",
+    title: "Full Stack Developer - Galo Enery Pvt. Ltd.",
+    desc: "Working on MERN stack projects with a focus on backend development, building scalable APIs, managing databases, and server-side logic.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
-  },
+}
+
   {
     id: 2,
-    title: "Full Stack Developer - SCS Technologies",
+    title: "Software Developer - SCS Technologies",
     desc: "Developed cross-platform mobile and web apps using React Native and integrated APIs with Node.js backend.",
     className: "md:col-span-2",
     thumbnail: "/exp2.svg",
