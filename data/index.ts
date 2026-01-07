@@ -77,14 +77,15 @@ export const projects = [
     iconLists:  ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     link: "https://maheshwarimachinaries.co.in/",
   },
-  {
-    id: 2,
-    title: "Tech Org's Website",
-    des: "A dynamic Website for a Tech organization where customer can enquire about the sevices of the organization.",
-    img: "/p2.png",
-    iconLists:  ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "https://scstechnologies.in/",
-  },
+  // {
+  //   id: 2,
+  //   title: "Tech Org's Website",
+  //   des: "A dynamic Website for a Tech organization where customer can enquire about the sevices of the organization.",
+  //   img: "/p2.png",
+  //   iconLists:  ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+  //   link: "https://scstechnologies.in/",
+  // },
+  
   {
     id: 3,
     title: "File Management Cloud",
